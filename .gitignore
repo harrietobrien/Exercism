@@ -1,0 +1,38 @@
+# General
+**/.idea/
+**/.exercism/
+**/README.md
+**/HELP.md
+**/LICENSE
+**/.DS_Store
+# C
+**/test-framework/
+**/test.out.dSYM/
+**/Makefile
+**/makefile
+**/*.out
+# C++
+**/CMakeFiles/
+**/test/
+**/*.txt
+**/*.cmake
+# C#
+**/HINTS.md
+**/bin/
+**/.vs/
+**/.obj/
+# Fortran
+
+# Haskell
+**/*.yaml
+# Kotlin
+**/.gradle/
+**/gradle/
+**/build/
+**/gradlew
+**/*.bat
+**/*.kts
+# PLSQL
+**/binary/
+# SML
+# Vimscript
