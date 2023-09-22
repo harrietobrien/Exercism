@@ -20,7 +20,10 @@
 **/HINTS.md
 **/bin/
 **/.vs/
-**/.obj/
+**/.obj
+**/obj/
+**/.sln
+**/.csproj
 # Fortran
 
 # Haskell
