@@ -17,6 +17,7 @@
 **/*.txt
 **/*.cmake
 # C#
+**/.editorconfig
 **/HINTS.md
 **/bin/
 **/.vs/
@@ -25,7 +26,6 @@
 **/.sln
 **/.csproj
 # Fortran
-
 # Haskell
 **/*.yaml
 # Kotlin
